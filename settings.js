@@ -13,12 +13,12 @@ global.ownername = 'senku ishigami' //owner name
 global.botname = 'DRK_ST_BUG' //name of the bot
 
 //sticker details
-global.packname = '😘'
-global.author = 's-shigami'
+global.packname = 'senku'
+global.author = 'senku-shigami'
 
 //console view/theme
 global.themeemoji = '😍'
-global.wm = "𝙎-ishigami"
+global.wm = "senku-ishigami"
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029Vakp0UnICVfe3I2Fe72w'
