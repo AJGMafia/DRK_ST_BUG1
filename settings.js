@@ -2,23 +2,23 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "14434263495"
-global.ownername = "Hanos"
+global.ownernomer = "16132197256"
+global.ownername = "𖤓⃞⃝𝖅𝖊𝖝༒𝗦𝗲𝗻𝗸𝘂 𝗜𝘀𝗵𝗶𝗴𝗮𝗺𝗶༒𖤓⃞💚"
 global.ytname = "DRK_ST_Tech"
 global.socialm = "GitHub: DRK-S-TEN"
 global.location = "America/Port-au-Prince"
 
-global.ownernumber = '14434263495'  //creator number
-global.ownername = 'Hanos' //owner name
+global.ownernumber = '16132197256'  //creator number
+global.ownername = '𖤓⃞⃝𝖅𝖊𝖝༒𝗦𝗲𝗻𝗸𝘂 𝗜𝘀𝗵𝗶𝗴𝗮𝗺𝗶༒𖤓⃞💚' //owner name
 global.botname = 'DRK_ST_BUG' //name of the bot
 
 //sticker details
 global.packname = '😍'
-global.author = 'Hanos'
+global.author = '𖤓⃞⃝𝖅𝖊𝖝༒𝗦𝗲𝗻𝗸𝘂 𝗜𝘀𝗵𝗶𝗴𝗮𝗺𝗶༒𖤓⃞💚'
 
 //console view/theme
 global.themeemoji = '😍'
-global.wm = "Hanos"
+global.wm = "𖤓⃞⃝𝖅𝖊𝖝༒𝗦𝗲𝗻𝗸𝘂 𝗜𝘀𝗵𝗶𝗴𝗮𝗺𝗶༒𖤓⃞💚"
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029Vakp0UnICVfe3I2Fe72w'
