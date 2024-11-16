@@ -13,7 +13,7 @@ global.ownername = '𖤓⃞⃝𝖅𝖊𝖝༒𝗦𝗲𝗻𝗸𝘂 𝗜𝘀𝗵�
 global.botname = 'DRK_ST_BUG' //name of the bot
 
 //sticker details
-global.packname = '😍'
+global.packname = 'senku'
 global.author = '𖤓⃞⃝𝖅𝖊𝖝༒𝗦𝗲𝗻𝗸𝘂 𝗜𝘀𝗵𝗶𝗴𝗮𝗺𝗶༒𖤓⃞💚'
 
 //console view/theme
